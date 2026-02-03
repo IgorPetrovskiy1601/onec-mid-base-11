@@ -217,7 +217,7 @@
     <name>ДКЛ_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
-      <value>ДКЛ согласованная скидка</value>
+      <value>Согласованная скидка</value>
     </synonym>
     <type>
       <types>Number</types>
